@@ -1,9 +1,14 @@
-# r3f-vite-starter
+# Orbital Vite Cube Starter
 A boilerplate to build R3F projects
 
 ```
 yarn
 yarn dev
+
+OR
+
+npm install
+npm run dev
 ```
 
 
